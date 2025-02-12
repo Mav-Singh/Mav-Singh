@@ -36,8 +36,8 @@ Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud tec
 
 ## 🔗 **Let’s Connect!**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌟 [Portfolio Website (if available)](https://yourwebsite.com)
+- 💼 [LinkedIn](WIP)
+- 🌟 [Portfolio Website (if available)](https://mav-rana.medium.com/)
 - 📫 Reach me at: your.email@example.com
 
 ---
