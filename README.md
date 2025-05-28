@@ -36,7 +36,7 @@ Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud tec
 ## 🔗 **Let’s Connect!**
 
 - 💼 [LinkedIn](WIP)
-- 🌟 [Portfolio Website (if available)](https://mav-rana.medium.com/)
+- 🌟 [Portfolio Website (if available)](https://mav-singh.medium.com/)
 - 📫 Reach me at: mmsr.aws@gmail.com
 
 ---
