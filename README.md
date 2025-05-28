@@ -27,10 +27,9 @@ Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud tec
 ## ✨ **What I'm Focusing On Now**
 
 - 💻 Building beginner-friendly **IT and cybersecurity skills**  
-- 🔐 Enhancing my knowledge of **cloud security fundamentals**  
+- 🔐 Enhancing my knowledge of **SECURITY**  
 - 🎸 Improving my guitar skills 🎶  
 - 📷 Capturing the world with my **Canon R50 camera**  
-- 📚 Learning about **finance and stocks**  
 
 ---
 
@@ -38,11 +37,9 @@ Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud tec
 
 - 💼 [LinkedIn](WIP)
 - 🌟 [Portfolio Website (if available)](https://mav-rana.medium.com/)
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: mmsr.aws@gmail.com
 
 ---
-
-### 🚀 **Fun Fact:** I love curating a minimalist, unique wardrobe and upgrading my apartment’s aesthetic one project at a time!
 
 
 <!--
