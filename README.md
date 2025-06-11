@@ -11,6 +11,10 @@ Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud tec
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101010?style=for-the-badge&logo=HackTheBox&logoColor=green)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+
 
   - 📝 Security
 
