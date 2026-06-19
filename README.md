@@ -20,10 +20,12 @@ My journey has been all about continuous learning and growth—so join me as I d
   - 📝 Security
 
 - 🌐 **Projects:**  
+  - Auditor: An Automated Access Control Auditor for Enterprise Compliance.
+  - Ping Sweeping to discover an unauthorised user/devices on my network
   - EC2 Monitoring with CloudWatch  
   - 3-Tier Web App Architecture  
   - CI/CD Pipelines with GitHub Actions & S3
-  - Ping Sweeping 
+  - 
 
 - 🛡️ **Security Interests:**  
   To become Expert in Security
