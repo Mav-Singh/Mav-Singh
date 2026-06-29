@@ -1,7 +1,6 @@
 # 👋 Hey folks, I’m MAV SINGH!
 
-Welcome to my GitHub page! I'm an **IT enthusiast** with a passion for cloud technologies, cybersecurity, and little bit of software development. 
-My journey has been all about continuous learning and growth—so join me as I dive deeper into code and tech!
+Welcome to my GitHub page! I'm a Security professional. I create solutions to secure the systems.
 
 ---
 
